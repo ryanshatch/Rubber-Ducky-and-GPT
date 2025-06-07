@@ -1,4 +1,4 @@
-## Automation using Ducky and LLM For Vulnerability Analysis and Reports.
+## Ducky and LLM For Automated Vulnerability Reports.
 
 ![BadUSB x GPT](https://github.com/ryanshatch/Rubber-Ducky-and-GPT/blob/main/banner.png)
 
@@ -8,11 +8,11 @@
 
 ---
 
-## Legal Note
+### Legal Note
 
 For research or educational use only. You are responsible for compliance with laws and ethical guidelines in your jurisdiction.
 
-## Disclaimer
+### Disclaimer
 This code is provided for educational and research purposes only. The author does not condone or support any illegal activities, including unauthorized distribution of software or malware. Use this code responsibly and in compliance with all applicable laws and regulations. Wherever you deploy this code, ensure it is done in a legal and ethical manner. The author is not liable for any misuse or consequences arising from the use of this code. In other words, do not use this code for malicious purposes or to harm others. Always respect the rights and privacy of individuals and organizations. And if you do use it, make sure you have permission to do so and that it is in line with ethical standards.
 > <br>
 > 
