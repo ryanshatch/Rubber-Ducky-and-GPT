@@ -1,5 +1,5 @@
-# Rubber Ducky & LLM
-## For Automated Vulnerability Asessment.
+# Automation using Ducky and LLM
+## For Vulnerability Analysis and Reports.
 
 ![BadUSB x GPT](https://github.com/ryanshatch/Rubber-Ducky-and-GPT/blob/main/banner.png)
 
