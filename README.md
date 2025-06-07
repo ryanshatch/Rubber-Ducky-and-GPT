@@ -1,4 +1,4 @@
-# BadUSB-GPT: Rubber Ducky Meets OpenAI's GPT
+# Rubber Ducky & LLM For Automated Vulnerability Asessment.
 
 ![BadUSB x GPT](https://github.com/ryanshatch/Rubber-Ducky-and-GPT/blob/main/banner.png)
 
