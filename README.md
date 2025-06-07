@@ -1,6 +1,7 @@
-## Ducky and LLM For Automated Vulnerability Reports.
+## Automated Vulnerability Reports.
+> Deployed using the Rubber Ducky
 
-![BadUSB x GPT](https://github.com/ryanshatch/Rubber-Ducky-and-GPT/blob/main/banner.png)
+![Auto reporting](https://github.com/ryanshatch/Rubber-Ducky-and-GPT/blob/main/banner.png)
 
 **Description**: This repository houses scripts for Rubber Ducky integrated with OpenAI's GPT. It's a powerful tool designed specifically for ethical hackers and researchers. It blends the swift execution of Rubber Ducky with the advanced intelligence of GPT.
 
